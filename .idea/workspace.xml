@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92cb7b61-12dc-4c3c-8ee9-2dd632254c47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="92cb7b61-12dc-4c3c-8ee9-2dd632254c47" name="Changes" comment="Started adding items to the server">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NoteCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NoteCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Notes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,7 @@
       <workItem from="1652119843854" duration="33000" />
       <workItem from="1652154803967" duration="11511000" />
       <workItem from="1652323903450" duration="5237000" />
-      <workItem from="1652353349307" duration="1025000" />
+      <workItem from="1652353349307" duration="2177000" />
     </task>
     <task id="LOCAL-00001" summary="Started adding items to the server">
       <created>1652329539722</created>
