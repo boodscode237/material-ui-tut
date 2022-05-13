@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92cb7b61-12dc-4c3c-8ee9-2dd632254c47" name="Changes" comment="Started adding items to the server">
+    <list default="true" id="92cb7b61-12dc-4c3c-8ee9-2dd632254c47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NoteCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NoteCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Notes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
@@ -74,7 +75,11 @@
       <workItem from="1652119843854" duration="33000" />
       <workItem from="1652154803967" duration="11511000" />
       <workItem from="1652323903450" duration="5237000" />
-      <workItem from="1652353349307" duration="2177000" />
+      <workItem from="1652353349307" duration="3549000" />
+      <workItem from="1652377790732" duration="638000" />
+      <workItem from="1652414491944" duration="8000" />
+      <workItem from="1652415498455" duration="2590000" />
+      <workItem from="1652418737653" duration="210000" />
     </task>
     <task id="LOCAL-00001" summary="Started adding items to the server">
       <created>1652329539722</created>
@@ -83,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652329539722</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Started adding and deleting items from the server">
+      <created>1652355553705</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652355553705</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Started adding items to the server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started adding items to the server" />
+    <MESSAGE value="Started adding and deleting items from the server" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started adding and deleting items from the server" />
   </component>
 </project>

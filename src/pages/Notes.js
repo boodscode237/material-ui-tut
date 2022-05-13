@@ -25,7 +25,6 @@ useEffect(() => {
         <Grid container spacing={3}>
             {notes.map(note => (
                 <Grid  key={note.id} item xs={12} sm={6} md={3}>
-                    <Paper>{ note.title }</Paper>
                     <NoteCard note={note} handleDelete={handleDelete()}/>
                 </Grid>
             ))}
